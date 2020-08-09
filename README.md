@@ -1,4 +1,4 @@
-# A tile to show list of Paystack Customers on Laravel Dashboard
+# A tile to show list of Paystack Transactions on Laravel Dashboard
 ![run-tests](https://github.com/digikraaft/laravel-dashboard-paystack-transactions-tile/workflows/run-tests/badge.svg)
 [![Build Status](https://scrutinizer-ci.com/g/digikraaft/laravel-dashboard-paystack-transactions-tile/badges/build.png?b=master)](https://scrutinizer-ci.com/g/digikraaft/laravel-dashboard-paystack-transactions-tile/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/digikraaft/laravel-dashboard-paystack-transactions-tile/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/digikraaft/laravel-dashboard-paystack-transactions-tile/?branch=master)
